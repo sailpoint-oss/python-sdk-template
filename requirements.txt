@@ -1,1 +1,1 @@
-sailpoint >= 1.4.0
+sailpoint >= 2.0.4
